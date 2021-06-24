@@ -6,7 +6,7 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
-  // This widget is the root of your application. Comment
+  // This widget is the root of your application. Comment cambiado
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
