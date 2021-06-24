@@ -6,7 +6,10 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
+<<<<<<< HEAD
   // This widget is the root of your application. Comment cambiado
+=======
+ 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
